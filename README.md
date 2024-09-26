@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)](#)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&color=gray&logoColor=61DAFB&style=flat)](#)
-[![Typescript](https://img.shields.io/badge/Typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=flat)](#)
 [![Javascript](https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat)](#)
+[![Typescript](https://img.shields.io/badge/Typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=flat)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)](#)
 [![Expo](https://img.shields.io/badge/Expo-darkgray?style=flat&logo=Expo&logoColor=%23000020)](#)
