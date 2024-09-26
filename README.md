@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 [![Typescript](https://img.shields.io/badge/Typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=flat)](#)
 [![Javascript](https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=flat)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)](#)
 [![Expo](https://img.shields.io/badge/Expo-darkgray?style=flat&logo=Expo&logoColor=%23000020)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=flat)](#)
