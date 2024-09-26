@@ -1,6 +1,6 @@
 # 👋 Hello there! 
 
-👋 Hi there! I’m a computer science student at KEA, dedicated to becoming the best full-stack developer I can be. I’m passionate about mastering both front-end and back-end technologies, and I love tackling complex problems with innovative solutions. Through my studies and personal projects, I'm continuously honing my skills in areas like web development, database management, and software engineering. I’m excited to share my journey and projects with you, so feel free to explore my repositories!
+I’m a computer science student at KEA, dedicated to becoming the best full-stack developer I can be. I’m passionate about mastering both front-end and back-end technologies, and I love tackling complex problems with innovative solutions. Through my studies and personal projects, I'm continuously honing my skills in areas like web development, database management, and software engineering. I’m excited to share my journey and projects with you, so feel free to explore my repositories!
 
 <!--
 **Forkeh/Forkeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
